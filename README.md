@@ -1,16 +1,39 @@
-## Hi there 👋
+# Hi, I'm Minseo Lee 👋
 
-<!--
-**minse0lee/minse0lee** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**Aspiring Data Scientist / Developer**  
+Studying at Korea University, College of Engineering  
+Interested in Data Analysis, Python, and Software Development
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔧 Currently Working On
+- Preparing for **ADsP** & **SQLD**
+- Studying **Python** and **C language**
+- Exploring GitHub & building my portfolio step by step
+
+---
+
+## 📘 Education
+- Korea University, Industrial and Management Engineering (2023–)
+
+---
+
+## 🛠️ Skills (Growing!)
+- **Languages:** Python, C, SQL  
+- **Tools:** Excel, Git, Jupyter Notebook  
+- **Studying:** pandas, matplotlib, MySQL
+
+---
+
+## ☁️ Future Goals
+- Build data projects using public datasets  
+- Complete small ML models using scikit-learn  
+- Land an internship in data or software field
+
+---
+
+## 📫 Contact
+- Email: [min218min218@korea.ac.kr]
+- GitHub: [github.com/minse0lee](https://github.com/minse0lee)
+
+---
