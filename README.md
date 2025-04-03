@@ -1,39 +1,47 @@
 # Hi, I'm Minseo Lee 👋
 
-**Aspiring Data Scientist / Developer**  
+**Aspiring Data Scientist**  
 Studying at Korea University, College of Engineering  
-Interested in Data Analysis, Python, and Software Development
+**데이터 사이언티스트를 꿈꾸며, 데이터 분석, 통계학, 파이썬에 열정을 가지고 공부하는 중입니다.**
 
 ---
 
 ## 🔧 Currently Working On
-- Preparing for **ADsP** & **SQLD**
-- Studying **Python** and **C language**
-- Exploring GitHub & building my portfolio step by step
+- **ADsP**와 **SQLD** 자격증 준비 중  
+- **Python**과 **C 언어** 공부 중  
+- GitHub 탐색 중이며, 포트폴리오를 차근차근 구축하고 있습니다
 
 ---
 
 ## 📘 Education
-- Korea University, Industrial and Management Engineering (2024.03–)
+- **Korea University**, Industrial and Management Engineering (2024.03–현재)
 
 ---
 
 ## 🛠️ Skills (Growing!)
-- **Languages:**
-- **Tools:** Excel 
-- **Studying:** Python, C, SQL
+- **Languages:** Python, C  
+- **Tools:** Excel  
+- **Studying:** Python, C, SQL, Data Science
+
+---
+
+## 📜 Certifications
+- **ADsP (Advanced Data Analytics Semi-Professional)** – 준비 중  
+- **SQLD (SQL Developer)** – 준비 중  
+- **ITQ 정보기술자격** (아래한글, 한글파워포인트, 한글엑셀)
 
 ---
 
 ## ☁️ Future Goals
-- Build data projects using public datasets  
-- Complete small ML models using scikit-learn  
-- Land an internship in data or software field
+- 공개 데이터셋을 활용한 데이터 사이언스 프로젝트 진행  
+- 데이터 분석 관련 기술을 활용하여 효율적인 데이터 처리 및 분석 방법 탐구  
+- **Python**을 활용한 자동화 프로젝트 개발  
+- **SQL** 및 데이터베이스 최적화 기술 향상  
+- 데이터 사이언티스트 관련 인턴십 취득 및 경험 쌓기  
+- 최신 데이터 분석 도구 및 기법 습득 (예: **TensorFlow**, **PyTorch** 등)
 
 ---
 
 ## 📫 Contact
-- Email: [min218min218@korea.ac.kr]
+- Email: [min218min218@korea.ac.kr](mailto:min218min218@korea.ac.kr)  
 - GitHub: [github.com/minse0lee](https://github.com/minse0lee)
-
----
