@@ -1,8 +1,12 @@
 # Hi, I'm Minseo Lee 👋
 
-**Aspiring Data Scientist**  
-Studying at Korea University, College of Engineering  
+**Aspiring Data Scientist**   
 **데이터 사이언티스트를 꿈꾸며, 데이터 분석, 통계학, 프로그래밍 언어에 열정을 가지고 공부하는 중입니다.**
+
+---
+
+## 📘 Education
+- **Korea University**, Industrial and Management Engineering (2024.03–현재)
 
 ---
 
@@ -12,14 +16,15 @@ Studying at Korea University, College of Engineering
 
 ---
 
-## 📘 Education
-- **Korea University**, Industrial and Management Engineering (2024.03–현재)
-
----
-
 ## 🛠️ Skills (Growing!)
 - **Computer Languages:** Python, C  
 - **Studying:** Python, C, SQL, Data Science
+
+---
+
+## 🌐 Languages
+- **English**: TOEIC
+- **Korean**: Native
 
 ---
 
