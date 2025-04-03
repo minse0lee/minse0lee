@@ -2,14 +2,13 @@
 
 **Aspiring Data Scientist**  
 Studying at Korea University, College of Engineering  
-**데이터 사이언티스트를 꿈꾸며, 데이터 분석, 통계학, 파이썬에 열정을 가지고 공부하는 중입니다.**
+**데이터 사이언티스트를 꿈꾸며, 데이터 분석, 통계학, 프로그래밍 언어에 열정을 가지고 공부하는 중입니다.**
 
 ---
 
 ## 🔧 Currently Working On
 - **ADsP**와 **SQLD** 자격증 준비 중  
-- **Python**과 **C 언어** 공부 중  
-- GitHub 탐색 중이며, 포트폴리오를 차근차근 구축하고 있습니다
+- **Python**과 **C 언어** 공부 중 
 
 ---
 
@@ -19,8 +18,7 @@ Studying at Korea University, College of Engineering
 ---
 
 ## 🛠️ Skills (Growing!)
-- **Languages:** Python, C  
-- **Tools:** Excel  
+- **Computer Languages:** Python, C  
 - **Studying:** Python, C, SQL, Data Science
 
 ---
