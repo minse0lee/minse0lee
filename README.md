@@ -14,14 +14,14 @@ Interested in Data Analysis, Python, and Software Development
 ---
 
 ## 📘 Education
-- Korea University, Industrial and Management Engineering (2023–)
+- Korea University, Industrial and Management Engineering (2024.03–)
 
 ---
 
 ## 🛠️ Skills (Growing!)
-- **Languages:** Python, C, SQL  
-- **Tools:** Excel, Git, Jupyter Notebook  
-- **Studying:** pandas, matplotlib, MySQL
+- **Languages:**
+- **Tools:** Excel 
+- **Studying:** Python, C, SQL
 
 ---
 
