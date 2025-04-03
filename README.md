@@ -49,6 +49,7 @@ Studying at Korea University, College of Engineering
 ## 📊 GitHub Stats
 ![Minseo Lee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=minse0lee&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
 ## 💻 solved.ac Profile
-![Solved.ac Profile](https://solved.ac/profile/min218min218/badge)
+![solved.ac Profile](https://solved.ac/static/rating_badge/solvedac/min218min218.svg)
+
 
 
