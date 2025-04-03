@@ -43,3 +43,9 @@ Studying at Korea University, College of Engineering
 ## 📫 Contact
 - Email: [min218min218@korea.ac.kr](mailto:min218min218@korea.ac.kr)  
 - GitHub: [github.com/minse0lee](https://github.com/minse0lee)
+
+---
+
+## 📊 GitHub Stats
+![Minseo Lee's GitHub Stats](https://github-readme-stats.vercel.app/api?username=minse0lee&show_icons=true&hide_title=true&count_private=true&hide=prs&theme=radical)
+
