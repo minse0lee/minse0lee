@@ -23,7 +23,7 @@
 ---
 
 ## 🌐 Languages
-- **English**: TOEIC
+- **English**: TOEIC 890
 - **Korean**: Native
 
 ---
