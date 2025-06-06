@@ -10,8 +10,7 @@
 
 ---
 
-## 🔧 Currently Working On
-- **ADsP**와 **SQLD** 자격증 준비 중  
+## 🔧 Currently Working On 
 - **Python**과 **C 언어** 공부 중 
 
 ---
@@ -29,8 +28,8 @@
 ---
 
 ## 📜 Certifications
-- **ADsP (Advanced Data Analytics Semi-Professional)** – 준비 중  
-- **SQLD (SQL Developer)** – 준비 중  
+- **ADsP (Advanced Data Analytics Semi-Professional)** 
+- **SQLD (SQL Developer)** 
 - **ITQ 정보기술자격** (아래한글, 한글파워포인트, 한글엑셀)
 
 ---
