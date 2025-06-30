@@ -1,7 +1,7 @@
 # Hi, I'm Minseo Lee 👋
 
-**Aspiring Data Scientist**   
-**데이터 사이언티스트를 꿈꾸며, 데이터 분석, 통계학, 프로그래밍 언어에 열정을 가지고 공부하는 중입니다.**
+**Aspiring AI Engineer & Data Scientist**   
+**데이터 분석, 통계학, 프로그래밍을 공부하며 AI 엔지니어가 되기 위해 한 걸음씩 나아가고 있습니다.**
 
 ---
 
@@ -10,14 +10,16 @@
 
 ---
 
-## 🔧 Currently Working On 
-- **Python**과 **C 언어** 공부 중 
+## 🔧 Currently Learning & Building
+- **Python** 공부 중
+- 머신러닝, 딥러닝 기초
+- 통계 수학
 
 ---
 
 ## 🛠️ Skills (Growing!)
-- **Computer Languages:** Python, C  
-- **Studying:** Python, C, SQL, Data Science
+- **Computer Languages:** Python, SQL 
+- **Studying:** Python, SQL, Data Science
 
 ---
 
@@ -35,12 +37,11 @@
 ---
 
 ## ☁️ Future Goals
-- 공개 데이터셋을 활용한 데이터 사이언스 프로젝트 진행  
-- 데이터 분석 관련 기술을 활용하여 효율적인 데이터 처리 및 분석 방법 탐구  
-- **Python**을 활용한 자동화 프로젝트 개발  
-- **SQL** 및 데이터베이스 최적화 기술 향상  
-- 데이터 사이언티스트 관련 인턴십 취득 및 경험 쌓기  
-- 최신 데이터 분석 도구 및 기법 습득 (예: **TensorFlow**, **PyTorch** 등)
+- 공개 데이터셋을 활용한 데이터 사이언스 프로젝트 진행 
+- **Python**을 활용한 프로젝트 진행
+- **SQL** 실력 더 키우기  
+- 데이터/ AI 관련 인턴십 경험 쌓기  
+- 최신 데이터 분석 도구 및 기법 습득
 
 ---
 
