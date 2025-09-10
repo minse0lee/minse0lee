@@ -1,7 +1,6 @@
 # Hi, I'm Minseo Lee 👋
 
-**Aspiring AI Engineer & Data Scientist**   
-**데이터 분석, 통계학, 프로그래밍을 공부하며 AI 엔지니어가 되기 위해 한 걸음씩 나아가고 있습니다.** 
+**Aspiring AI Engineer & Data Scientist**    
 
 ---
 
@@ -12,6 +11,7 @@
 
 ## 🔧 Currently Learning & Building
 - **Python** 공부 중
+- 데이터 분석
 - 머신러닝, 딥러닝 기초
 - 통계 수학
 
