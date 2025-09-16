@@ -36,15 +36,6 @@
 
 ---
 
-## ☁️ Future Goals
-- 공개 데이터셋을 활용한 데이터 사이언스 프로젝트 진행 
-- **Python**을 활용한 프로젝트 진행
-- **SQL** 실력 더 키우기  
-- 데이터/ AI 관련 인턴십 경험 쌓기  
-- 최신 데이터 분석 도구 및 기법 습득
-
----
-
 ## 📫 Contact
 - Email: [min218min218@korea.ac.kr](mailto:min218min218@korea.ac.kr)  
 - GitHub: [github.com/minse0lee](https://github.com/minse0lee)
